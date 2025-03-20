@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -58,9 +60,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/whileNotEOThori/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
