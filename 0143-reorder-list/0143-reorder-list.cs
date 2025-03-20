@@ -11,7 +11,7 @@
  */
 public class Solution {
     public void ReorderList(ListNode head) {
-        //return list as is if there is only one node
+        //list remains unchanged if there is only one node
         if (head.next == null)
             return ;
 
@@ -27,6 +27,7 @@ public class Solution {
         }
         tail = curr;
 
+        // list remains unchanged if there are only two nodes
         if (numNodes == 1)
             return ;
 
@@ -36,6 +37,7 @@ public class Solution {
         int i =0;
         while (i < numNodes)
         {
+            //reassign curr
             curr = head;
             
             //find second last node
@@ -49,13 +51,16 @@ public class Solution {
 
             head.next = tail;
 
+            // set tail to the second last node
             tail = curr;
 
+            //set head to the node after the new insertion | essentailly the next odd numbered node
             head = head.next.next;
 
             i = i+2;
         }
 
+        // set the head to the reordered list
         head = result;
     }
 }
